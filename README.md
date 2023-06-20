@@ -1,1 +1,1 @@
-Welcome to my daily Node_paditham repository. This repository is dedicated to fostering a habit of daily coding practice in nodejs.Aim to commit daily, even if it's a small piece of code or a short exercise. Every commit counts and let the github turns lush and gree 
+Welcome to my daily Node_paditham repository. This repository is dedicated to fostering a habit of daily coding practice in nodejs.Aim to commit daily, even if it's a small piece of code or a short exercise. Every commit counts and let the github turns lush green 

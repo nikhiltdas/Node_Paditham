@@ -1,1 +1,1 @@
-# Node_PadithamBehold, a flourishing garden of digital artistry, where lines of code dance upon the delicate canvas of creativity. Nestled within the enchanting realm of GitHub, a resplendent repository unfolds, like a blossoming tapestry, showcasing the labor of an aspiring Node.js acolyte.
+Behold, a flourishing garden of digital artistry, where lines of code dance upon the delicate canvas of creativity. Nestled within the enchanting realm of GitHub, a resplendent repository unfolds, like a blossoming tapestry, showcasing the labor of an aspiring Node.js acolyte.

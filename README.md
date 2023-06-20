@@ -1,1 +1,1 @@
-Behold, a flourishing garden of digital artistry, where lines of code dance upon the delicate canvas of creativity. Nestled within the enchanting realm of GitHub, a resplendent repository unfolds, like a blossoming tapestry, showcasing the labor of an aspiring Node.js acolyte.
+Welcome to my daily Node_paditham repository. This repository is dedicated to fostering a habit of daily coding practice in nodejs.Aim to commit daily, even if it's a small piece of code or a short exercise. Every commit counts and let the github turns lush and gree 
